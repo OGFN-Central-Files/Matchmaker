@@ -18,7 +18,7 @@
     "@ryanbekhen/cryptkhen": "^3.2.0",
     "amqplib": "^0.10.3",
     "dirname-filename-esm": "^1.1.1",
-    "dotenv": "^16.3.1",
+    "dotenv": "^18.0.10",
     "drizzle-orm": "^0.27.2",
     "hono": "^3.3.0",
     "mysql2": "^3.5.2",
