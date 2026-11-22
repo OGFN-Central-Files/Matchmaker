@@ -14,7 +14,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@hono/node-server": "^1.0.2",
+    "@hono/node-server": "^2.1.9",
     "@ryanbekhen/cryptkhen": "^3.2.0",
     "amqplib": "^0.10.3",
     "dirname-filename-esm": "^1.1.1",
